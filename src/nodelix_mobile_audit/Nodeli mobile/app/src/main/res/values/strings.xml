@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NodelixcoreOS Mobile</string>
+    <string name="app_tagline">Core Intelligence &amp; Industrial Server Control</string>
+    <string name="biometric_title">NodelixcoreOS Security</string>
+    <string name="biometric_subtitle">Verify identity to sign server authentication challenge</string>
+    <string name="biometric_negative">Use Admin Password</string>
+    <string name="notification_channel_name">NodelixcoreOS System Alerts</string>
+    <string name="notification_channel_desc">Alerts for server connectivity, sensors, door lock, and updates</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="96dp"
+    android:height="96dp"
+    android:viewportWidth="96"
+    android:viewportHeight="96">
+    <!-- Outer rounded cyber core frame -->
+    <path
+        android:fillColor="#101720"
+        android:strokeColor="#00E5A8"
+        android:strokeWidth="2.5"
+        android:pathData="M24,10 L72,10 A14,14 0 0,1 86,24 L86,72 A14,14 0 0,1 72,86 L24,86 A14,14 0 0,1 10,72 L10,24 A14,14 0 0,1 24,10 Z" />
+    <!-- Chip pins top & bottom -->
+    <path
+        android:strokeColor="#00C8FF"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M34,4 L34,10 M48,4 L48,10 M62,4 L62,10 M34,86 L34,92 M48,86 L48,92 M62,86 L62,92 M4,34 L10,34 M4,48 L10,48 M4,62 L10,62 M86,34 L92,34 M86,48 L92,48 M86,62 L92,62" />
+    <!-- Inner Nodelix hexagon + N circuit trace -->
+    <path
+        android:fillColor="#151E29"
+        android:strokeColor="#00C8FF"
+        android:strokeWidth="2"
+        android:pathData="M48,22 L70,35 L70,61 L48,74 L26,61 L26,35 Z" />
+    <path
+        android:strokeColor="#00E5A8"
+        android:strokeWidth="3.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M37,58 L37,38 L59,58 L59,38" />
+</vector>

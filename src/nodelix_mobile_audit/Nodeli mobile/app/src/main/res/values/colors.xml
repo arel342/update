@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="nodelix_bg">#FF080B10</color>
+    <color name="nodelix_bg_secondary">#FF101720</color>
+    <color name="nodelix_card">#FF151E29</color>
+    <color name="nodelix_card_secondary">#FF1C2835</color>
+    <color name="nodelix_primary">#FF00E5A8</color>
+    <color name="nodelix_secondary">#FF00C8FF</color>
+    <color name="nodelix_text_primary">#FFF4F7FA</color>
+    <color name="nodelix_text_secondary">#FF8795A5</color>
+    <color name="nodelix_warning">#FFFFB547</color>
+    <color name="nodelix_error">#FFFF4D5E</color>
+</resources>
